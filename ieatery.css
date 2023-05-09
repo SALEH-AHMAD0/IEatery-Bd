@@ -1,0 +1,57 @@
+#signButton{
+    margin-left: 950px;
+}
+
+#logo-btn{
+    margin-top: 20px;
+}
+#coverpic{
+    margin-top: 20px;
+}
+#input{
+    margin-top: 90px;
+    margin-left: 400px;
+    /* box-shadow: 10px 10px 5px grey; */
+}
+
+#service{
+    margin-left: 530px;
+    margin-top: 40px;
+    
+}
+
+#b-c{
+    background-color: green;
+    height: 300px;
+    margin-top: 40px;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    margin-top: 70px;
+}
+.mockup-image-style{
+    position: absolute;
+    top: 1350px;
+    width: 480px;
+    right: 0px;
+}
+#last-futter{
+    margin-top: 80px;
+}
+#bT{
+    background-color: #3cb34b;
+    color: #fff;
+    border: 0px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    font-size: 23px;
+}
+
+#secondPage{
+    display: none;
+}
+
+.sep{
+    display: block;
+}
